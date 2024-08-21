@@ -1,0 +1,27 @@
+/* =============================== Login Start ==================================== */
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  height: 100vh;
+  margin: auto;
+}
+
+.formBlock {
+  padding: 30px;
+  border: 1px solid #dee2e6;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.formSection {
+  width: 100%;
+}
+
+.formHead {
+  font-size: 24px;
+  margin-bottom: 50px;
+}
